@@ -1,6 +1,6 @@
 {
-  "name": "InnexiaMusic",
-  "logo": "https://telegra.ph/file/b1063fce561d22c59e746.jpg",
+  "name": "PRINCEPATILOPMUSIC",
+  "logo": "https://telegra.ph/file/3b866961b5c0433deca01.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/DarkCybers/innexiaMusic",
@@ -50,7 +50,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/c0602eaaad36db501652c.png"
+      "value": "https://telegra.ph/file/7970f20ea8f441091eb63.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
